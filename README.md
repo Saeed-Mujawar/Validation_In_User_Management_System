@@ -15,11 +15,12 @@ In this project, we have four layers-
 >## Data Structure used in my project
 In our project [ArrayList](https://www.geeksforgeeks.org/internal-working-of-arraylist-in-java/) and the methods involved with ArrayList, like add method for posting new User, remove method for deleting a user, combination of add and remove method for update user and linear search function for searching a user in Java by specific userId.
 >## Project Summary
-Our project basically maintains the upcoming user information which includes -
+Our project basically maintains the upcoming user information with various validation which includes-
 * UserId
-* Name
 * UserName
-* Address
+* DOB
+* Email
 * Phone Number
+* LocalTime of entering the data
 
-You can create a user information, read a user information, read by specific id, update userName of specific userId, delete a user by their userId by api calls.
+You can read, read by specific id, update userName of specific userId, delete a user by their userId by api calls.
